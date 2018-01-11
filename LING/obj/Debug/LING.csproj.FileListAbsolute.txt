@@ -7,3 +7,6 @@ E:\LING\LING\obj\Debug\LING.pdb
 F:\ASP.net框架技术\第一课（LINQ基本子句查询）\LING\LING\bin\Debug\LING.exe.config
 F:\ASP.net框架技术\第一课（LINQ基本子句查询）\LING\LING\obj\Debug\LING.exe
 F:\ASP.net框架技术\第一课（LINQ基本子句查询）\LING\LING\obj\Debug\LING.pdb
+E:\gitclone\ctbzero\LING\bin\Debug\LING.exe.config
+E:\gitclone\ctbzero\LING\obj\Debug\LING.exe
+E:\gitclone\ctbzero\LING\obj\Debug\LING.pdb
