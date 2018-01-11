@@ -1,0 +1,9 @@
+E:\LING\LING\bin\Debug\LING.exe.config
+E:\LING\LING\bin\Debug\LING.exe
+E:\LING\LING\bin\Debug\LING.pdb
+E:\LING\LING\obj\Debug\LING.csprojResolveAssemblyReference.cache
+E:\LING\LING\obj\Debug\LING.exe
+E:\LING\LING\obj\Debug\LING.pdb
+F:\ASP.net框架技术\第一课（LINQ基本子句查询）\LING\LING\bin\Debug\LING.exe.config
+F:\ASP.net框架技术\第一课（LINQ基本子句查询）\LING\LING\obj\Debug\LING.exe
+F:\ASP.net框架技术\第一课（LINQ基本子句查询）\LING\LING\obj\Debug\LING.pdb
